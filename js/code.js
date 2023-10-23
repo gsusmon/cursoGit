@@ -1,5 +1,5 @@
 
-alert("bienvenido a la pagina de pruebas");
+alert("bienvenido a la rama main");
 
 
 
