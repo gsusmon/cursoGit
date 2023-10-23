@@ -1,5 +1,6 @@
 
-alert("bienvenido a la pagina");
+alert("bienvenido a la pagina de pruebas");
+
 
 
 
